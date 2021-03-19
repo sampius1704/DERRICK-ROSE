@@ -8,27 +8,27 @@
 
 @font-face{
     font-family: 'Ruhl';
-    src: url(/fonts/FrankRuhlLibre-Regular.ttf);
+    src: url(/DERRICK-ROSE/fonts/FrankRuhlLibre-Regular.ttf);
 }
 
 @font-face{
     font-family: 'Ruhl-Medium';
-    src: url(/fonts/FrankRuhlLibre-Medium.ttf);
+    src: url(/DERRICK-ROSE/fonts/FrankRuhlLibre-Medium.ttf);
 }
 
 @font-face{
     font-family: 'Teko';
-    src: url(/fonts/Teko-Regular.ttf);
+    src: url(/DERRICK-ROSE/fonts/Teko-Regular.ttf);
 }
 
 @font-face{
     font-family: 'Roboto';
-    src: url(/fonts/RobotoCondensed-Regular.ttf);
+    src: url(/DERRICK-ROSE/fonts/RobotoCondensed-Regular.ttf);
 }
 
 @font-face{
     font-family: 'Roboto-Medium';
-    src: url(/fonts/Roboto-Medium.ttf);
+    src: url(/DERRICK-ROSE/fonts/Roboto-Medium.ttf);
 }
 
 html{
